@@ -13,8 +13,9 @@ package edu.uqu.cs;
  
 class FirstExercise
 {
-    private static void mainMethod( String[] args )
+    public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello: Bassam, 443003425");
     }
 }
+
